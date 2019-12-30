@@ -4,5 +4,5 @@
 #### 目录
 - [call & apply & bind实现](./src/call_apply_bind/README.md)
 - [new实现](./src/new/README.md)
-- instanceof实现
+- [instanceof实现](./src/instanceof/README.md)
 - class extends实现
